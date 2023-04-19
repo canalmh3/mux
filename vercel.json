@@ -1,0 +1,12 @@
+{
+  "env": {
+    "MUX_TOKEN_ID": "6a4b5b3c-6dbd-4760-8ef1-ea54337e6c4e",
+    "MUX_TOKEN_SECRET": "wZFEQeOWd2bR7NT6f0CLVJjEh5QikwKdBCDMTIirSczF+6KhM9qYpmna4ZjezBnBQeYY8uxwQSI"
+  },
+  "build": {
+    "env": {
+      "MUX_TOKEN_ID": "6a4b5b3c-6dbd-4760-8ef1-ea54337e6c4e",
+      "MUX_TOKEN_SECRET": "wZFEQeOWd2bR7NT6f0CLVJjEh5QikwKdBCDMTIirSczF+6KhM9qYpmna4ZjezBnBQeYY8uxwQSI"
+    }
+  }
+}
